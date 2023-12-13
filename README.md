@@ -9,6 +9,8 @@
   - Sign IN /Sign UP form
   - redirect to browse page
 - Browse(after authentication)
+- Login Form
+- Sign up form
 - Header
 - Main Movie
   - Trailer in Background
